@@ -1,0 +1,5 @@
+C:\Users\BHowes\Documents\Visual Studio 2010\Projects\pullDownTest\pullDownLibrary\pullDownLibrary\bin\Debug\pullDownLibrary.dll
+C:\Users\BHowes\Documents\Visual Studio 2010\Projects\pullDownTest\pullDownLibrary\pullDownLibrary\bin\Debug\pullDownLibrary.pdb
+C:\Users\BHowes\Documents\Visual Studio 2010\Projects\pullDownTest\pullDownLibrary\pullDownLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BHowes\Documents\Visual Studio 2010\Projects\pullDownTest\pullDownLibrary\pullDownLibrary\obj\Debug\pullDownLibrary.dll
+C:\Users\BHowes\Documents\Visual Studio 2010\Projects\pullDownTest\pullDownLibrary\pullDownLibrary\obj\Debug\pullDownLibrary.pdb
